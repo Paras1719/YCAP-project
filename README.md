@@ -1,3 +1,6 @@
+Paras Shingote
+AIDS-50
+
 *Spring Boot Login Application (JDBC + MySQL)*
 
 A simple Spring Boot login application using Thymeleaf, JDBC, and MySQL.
